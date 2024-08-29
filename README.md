@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I am Amir 👋</h1> 
+<h1 align="center">Hi, I'm Amir 👋</h1> 
 
 <p align="center">
   <img   height="300" src="2.gif"> 
@@ -15,7 +15,7 @@ const response = {
 };
 ```
 
-
+## 🛠 Skills
 <p align="center">
   
  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)" />
@@ -34,6 +34,10 @@ const response = {
  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
 
-
 </p>
+
+## 🔌 Contact with me
+
+<a><img src="" /></a>
+
 
