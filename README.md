@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Amir 👋</h1> 
+<h1 align="center">Hi there, I'm Amir 👋</h1> 
 
 <p align="center">
   <img   height="300" src="2.gif"> 
@@ -10,6 +10,7 @@ const response = {
   data: {
     fullName: "Amir Hossein Goodarzi",
     birthDay: "1998 August 26 , Wednesday",
+    location: "Tehran, Iran",
     languages: [".js"],
   },
 };
@@ -47,7 +48,7 @@ ___
 
 </p>
 
-## 🔌 Contact with me
+## 🔌 Contact me
 
 
 <div align="center">
@@ -56,7 +57,8 @@ ___
 <a href="https://wa.me/message/RSUSU3JDMBKAB1"><img src="whatsapp.png" /></a>
   
 </div>
-  
+
+
 
 
 
