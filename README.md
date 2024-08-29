@@ -15,6 +15,17 @@ const response = {
 };
 ```
 
+<p align="center">
+    <img src="https://profile-counter.glitch.me/amirhosseingoodarzi1998/count.svg?"  />
+</p>
+
+___
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amirhosseingoodarzi1998&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amirhosseingoodarzi1998&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
 ## 🛠 Skills
 <p align="center">
   
@@ -38,7 +49,18 @@ const response = {
 
 ## 🔌 Contact with me
 
+
+<div align="center">
+
 <a href="https://t.me/amirhosseingoodarzi1998"><img src="telegram.png" /></a>
 <a href="https://wa.me/message/RSUSU3JDMBKAB1"><img src="whatsapp.png" /></a>
+  
+</div>
+  
+
+
+
+
+
 
 
